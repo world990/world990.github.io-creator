@@ -1,0 +1,4 @@
+baseURL = "https://world990.github.io/"
+languageCode = "zh-Hans"
+title = "YY的博客"
+theme = "ananke"
